@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+build/
+evidence/
+__pycache__/
+*.pyc
+.env
+.env.*
+project.private.config.json
+*.pem
+*.key
+*.db
+*.sqlite
+*.sqlite3
